@@ -10,7 +10,7 @@
 請自行參考安裝方式
 
 ---
-此轉案包含兩個範例，[slide與說明可參考這](http://smlsunxie.github.com/slides/java-with-node.html)
+此專案包含兩個範例，[slide與說明可參考這](http://smlsunxie.github.com/slides/java-with-node.html)
 
 
 
